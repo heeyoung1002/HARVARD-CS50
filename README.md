@@ -1,1 +1,0 @@
-# HARVARD-CS50
